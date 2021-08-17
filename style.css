@@ -1,0 +1,147 @@
+body{
+    background-color:whitesmoke;
+    margin:0;
+    text-align: center;
+    font-family: Verdana,Tahoma, sans-serif;
+
+}
+
+h1{
+    font-size: 5.62rem; /*100%==16px
+    90/16=5.62   *100=562   */
+    
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: teal;
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    color:teal;
+    font-size:3rem;
+    
+    
+}
+
+.heading1{
+    color: teal;
+}
+/* paragraph */
+
+.para1{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    color: teal;
+   font-weight: 700;
+    }
+
+.button{
+    background-color: teal;
+    border:white;
+    font-size: 25px;
+    color:white;
+    padding: 15px 32px;
+
+    
+}
+
+.skills-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+/* image */
+
+.profile{
+    padding: 10px;
+}
+
+
+.img1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.img2{
+    width: 25%;
+    float:right;
+    margin-left:30px ;
+}
+
+.mountain{
+    margin-top: 25px;
+    width: 50%;
+}
+
+.top-cloud{
+    margin-top:100px;
+    margin-left: 600px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    margin-bottom: 150px;
+    margin-right: 1500px;
+   
+}
+
+
+
+
+.top-container{
+    background-color:  #e4f9f5;;
+    
+    
+
+}
+
+.middle-container{
+    
+   
+
+}
+
+.bottom-container{
+    background-color: teal;
+    }
+
+.pro{
+    text-decoration: underline;
+}
+  
+
+.hr{
+    border-top: 10px dotted gray;
+    margin-left: 600px;
+    margin-right: 600px;
+    
+    
+}
+
+.paragraph{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+
+
+.footer-link{
+    font-size: 18px;
+    padding: 10px;
+}
+.last{
+    color: white;
+    font-size:10px;
+}
+/*
+.para2{
+    clear: left;
+}
+*/
